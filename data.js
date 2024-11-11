@@ -3,9 +3,9 @@ const profileData = {
   roles: ["Web Developer", "UI/UX Designer", "Front-End Developer", "MERN Developer", "Java Developer"],
   profilePic: "images/mypic.jpeg",
   coverPic: "images/bgimg.png",
-  description: "A highly skilled frontend developer with a passion for crafting seamless user experiences. Proficient in JavaScript, React, and modern web technologies. Eager to bring ideas to life through thoughtful design and responsive interfaces.",
+  description: "Dedicated software developer with expertise in JavaScript, React, and modern web technologies. Skilled in creating user-centered, responsive applications, and experienced in full-stack and cloud solutions. Passionate about innovation and crafting impactful digital experiences.",
   profileLink: "https://vivekpatil-portfolio.netlify.app/",
-  cvLink: "https://drive.google.com/file/d/1zZV6FQwL65F_V0Zl5sqz5REu1FzGJXqk/view?usp=sharing", // Replace with your Google Drive CV link
+  cvLink: "https://drive.google.com/file/d/1UeGSiyXz1xOIhpQE94sl1KFLFhLVnMBe/view?usp=drive_link", // Replace with your Google Drive CV link
   location: "Pune, 411062",
   mobile: "+91 9763189395",
   email: "vivekvpatil1705@gmail.com",
