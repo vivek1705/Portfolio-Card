@@ -90,12 +90,12 @@
   font-size: 16px;
   color: #323a41;
   line-height: 1.6;
-  max-height: 5em;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
+  max-height: none;  
+  overflow: visible; 
+  text-overflow: unset; 
+  display: block; 
 }
+
 
 /* Button Styling */
 .button-container {
