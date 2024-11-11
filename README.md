@@ -2,7 +2,7 @@
 
 A responsive and interactive portfolio card showcasing personal information, contact details, and social media links. This project highlights HTML, CSS, and JavaScript skills and can be used to create a concise personal profile.
 
-
+![Portfolio Card Preview] https://vivekpatil.onrender.com
 
 ## Table of Contents
 
