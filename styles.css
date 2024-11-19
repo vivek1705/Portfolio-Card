@@ -205,6 +205,10 @@
     width: 48%;
   }
 
+  .view-btn i {
+    margin-right: 10px;
+  }
+
   .social-links {
     flex-wrap: wrap;
     gap: 10px;
@@ -241,6 +245,10 @@
   .view-btn {
     font-size: 14px;
     padding: 8px 15px;
+  }
+
+  .view-btn i {
+    margin-right: 10px;
   }
 
   .contact-info {
